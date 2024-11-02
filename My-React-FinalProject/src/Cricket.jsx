@@ -27,6 +27,8 @@ function Cricket()
          <hr></hr>
          <hr></hr>
         <h1 style={{color:'red'}}> Cricket Score:{score}</h1>
+        <h1> Cricket Score is Displayed</h1>
+        <hr></hr>
         <button style={{color:'green'}} onClick = {() => { setScore(score+1)}}>+1</button>
         <button style={{color:'green'}} onClick = {() => { setScore(score+2)}}>+2</button>
         <button style={{color:'green'}} onClick = {() => { setScore(score+3)}}>+3</button>
