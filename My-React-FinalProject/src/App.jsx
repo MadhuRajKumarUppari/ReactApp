@@ -13,6 +13,7 @@ function App()
 {
   return(
     <>
+      <h1> This is App.jsx file</h1>
     <h1 style={{color:'red', textAlign:'center'}} > <u>React JS</u>  </h1>
          <h1 style={{color:'blue', textAlign:'center'}}>     <Date /></h1>
     <hr></hr>
